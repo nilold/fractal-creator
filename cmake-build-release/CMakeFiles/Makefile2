@@ -47,7 +47,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /Users/niloneto/CLionProjects/fractal-creator
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/niloneto/CLionProjects/fractal-creator/cmake-build-release
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ clean: CMakeFiles/fractal_creator.dir/clean
 CMakeFiles/fractal_creator.dir/all:
 	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/depend
 	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target fractal_creator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/niloneto/CLionProjects/fractal-creator/cmake-build-release/CMakeFiles --progress-num=1,2,3,4 "Built target fractal_creator"
 .PHONY : CMakeFiles/fractal_creator.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/fractal_creator.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/niloneto/CLionProjects/fractal-creator/cmake-build-release/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/fractal_creator.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/niloneto/CLionProjects/fractal-creator/cmake-build-release/CMakeFiles 0
 .PHONY : CMakeFiles/fractal_creator.dir/rule
 
 # Convenience name for target.

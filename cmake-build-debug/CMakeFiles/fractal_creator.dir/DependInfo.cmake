@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/niloneto/CLionProjects/fractal-creator/Bitmap.cpp" "/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles/fractal_creator.dir/Bitmap.cpp.o"
+  "/Users/niloneto/CLionProjects/fractal-creator/Mandelbrot.cpp" "/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles/fractal_creator.dir/Mandelbrot.cpp.o"
   "/Users/niloneto/CLionProjects/fractal-creator/main.cpp" "/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles/fractal_creator.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

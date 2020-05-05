@@ -92,6 +92,12 @@
 		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/BitmapInfoHeader.h">
 			<Option target="fractal_creator"/>
 		</Unit>
+		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/Mandelbrot.cpp">
+			<Option target="fractal_creator"/>
+		</Unit>
+		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/Mandelbrot.h">
+			<Option target="fractal_creator"/>
+		</Unit>
 		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/main.cpp">
 			<Option target="fractal_creator"/>
 		</Unit>

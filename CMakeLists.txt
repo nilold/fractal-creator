@@ -3,4 +3,4 @@ project(fractal_creator)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(fractal_creator main.cpp BitmapFileHeader.h BitmapInfoHeader.h Bitmap.cpp Bitmap.h)
+add_executable(fractal_creator main.cpp BitmapFileHeader.h BitmapInfoHeader.h Bitmap.cpp Bitmap.h Mandelbrot.cpp Mandelbrot.h)
