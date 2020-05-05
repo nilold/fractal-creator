@@ -21,6 +21,8 @@ iostream
 -
 memory
 -
+math.h
+-
 Bitmap.h
 /Users/niloneto/CLionProjects/fractal-creator/Bitmap.h
 Mandelbrot.h
