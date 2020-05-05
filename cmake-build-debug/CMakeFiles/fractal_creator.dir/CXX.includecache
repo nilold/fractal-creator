@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/niloneto/CLionProjects/fractal-creator/Bitmap.cpp
+fstream
+-
+Bitmap.h
+/Users/niloneto/CLionProjects/fractal-creator/Bitmap.h
+BitmapInfoHeader.h
+/Users/niloneto/CLionProjects/fractal-creator/BitmapInfoHeader.h
+BitmapFileHeader.h
+/Users/niloneto/CLionProjects/fractal-creator/BitmapFileHeader.h
+
+/Users/niloneto/CLionProjects/fractal-creator/Bitmap.h
+string
+-
+cstdint
+-
+memory
+-
+
+/Users/niloneto/CLionProjects/fractal-creator/BitmapFileHeader.h
+cstdint
+-
+
+/Users/niloneto/CLionProjects/fractal-creator/BitmapInfoHeader.h
+cstdint
+-
+
+/Users/niloneto/CLionProjects/fractal-creator/main.cpp
+iostream
+-
+Bitmap.h
+/Users/niloneto/CLionProjects/fractal-creator/Bitmap.h
+
