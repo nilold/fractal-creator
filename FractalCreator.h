@@ -13,8 +13,6 @@ class FractalCreator {
     Bitmap m_bitmap;
     ZoomList m_zoomList;
     int m_total{0};
-public:
-    FractalCreator(int width, int height);
 
     void calculate_iterations();
 
@@ -22,9 +20,16 @@ public:
 
     void draw_fractal();
 
+    void write_bitmap(std::string name);
+
+public:
+    FractalCreator(int width, int height);
+
     void add_zoom(const Zoom &zoom);
 
-    void write_bitmap(std::string name);
+    void run();
+
+
 };
 
 

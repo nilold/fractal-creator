@@ -75,3 +75,10 @@ void FractalCreator::calculate_total_iterations() {
         m_total += m_histogram[i];
     }
 }
+
+void FractalCreator::run() {
+    calculate_iterations();
+    calculate_total_iterations();
+    draw_fractal();
+    write_bitmap("test.bmp");
+}
