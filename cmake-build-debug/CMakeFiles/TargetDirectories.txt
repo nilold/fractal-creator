@@ -1,3 +1,0 @@
-/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles/fractal_creator.dir
