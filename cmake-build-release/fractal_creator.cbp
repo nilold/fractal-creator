@@ -92,10 +92,34 @@
 		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/BitmapInfoHeader.h">
 			<Option target="fractal_creator"/>
 		</Unit>
+		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/FractalCreator.cpp">
+			<Option target="fractal_creator"/>
+		</Unit>
+		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/FractalCreator.h">
+			<Option target="fractal_creator"/>
+		</Unit>
 		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/Mandelbrot.cpp">
 			<Option target="fractal_creator"/>
 		</Unit>
 		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/Mandelbrot.h">
+			<Option target="fractal_creator"/>
+		</Unit>
+		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/RGB.cpp">
+			<Option target="fractal_creator"/>
+		</Unit>
+		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/RGB.h">
+			<Option target="fractal_creator"/>
+		</Unit>
+		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/Zoom.cpp">
+			<Option target="fractal_creator"/>
+		</Unit>
+		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/Zoom.h">
+			<Option target="fractal_creator"/>
+		</Unit>
+		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/ZoomList.cpp">
+			<Option target="fractal_creator"/>
+		</Unit>
+		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/ZoomList.h">
 			<Option target="fractal_creator"/>
 		</Unit>
 		<Unit filename="/Users/niloneto/CLionProjects/fractal-creator/main.cpp">

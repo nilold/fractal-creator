@@ -10,7 +10,9 @@ int Mandelbrot::getIterations(double x, double y) {
 
     while (iterations < MAX_ITERATIONS) {
         z = z * z + c;
+
         if (abs(z) > 2) break;
+        
         iterations++;
     }
 

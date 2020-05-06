@@ -6,10 +6,26 @@ CMakeFiles/fractal_creator.dir/Bitmap.cpp.o: ../Bitmap.h
 CMakeFiles/fractal_creator.dir/Bitmap.cpp.o: ../BitmapFileHeader.h
 CMakeFiles/fractal_creator.dir/Bitmap.cpp.o: ../BitmapInfoHeader.h
 
+CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../Bitmap.h
+CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../FractalCreator.cpp
+CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../FractalCreator.h
+CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../Mandelbrot.h
+CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../Zoom.h
+CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../ZoomList.h
+
 CMakeFiles/fractal_creator.dir/Mandelbrot.cpp.o: ../Mandelbrot.cpp
 CMakeFiles/fractal_creator.dir/Mandelbrot.cpp.o: ../Mandelbrot.h
 
+CMakeFiles/fractal_creator.dir/Zoom.cpp.o: ../Zoom.cpp
+CMakeFiles/fractal_creator.dir/Zoom.cpp.o: ../Zoom.h
+
+CMakeFiles/fractal_creator.dir/ZoomList.cpp.o: ../Zoom.h
+CMakeFiles/fractal_creator.dir/ZoomList.cpp.o: ../ZoomList.cpp
+CMakeFiles/fractal_creator.dir/ZoomList.cpp.o: ../ZoomList.h
+
 CMakeFiles/fractal_creator.dir/main.cpp.o: ../Bitmap.h
-CMakeFiles/fractal_creator.dir/main.cpp.o: ../Mandelbrot.h
+CMakeFiles/fractal_creator.dir/main.cpp.o: ../FractalCreator.h
+CMakeFiles/fractal_creator.dir/main.cpp.o: ../Zoom.h
+CMakeFiles/fractal_creator.dir/main.cpp.o: ../ZoomList.h
 CMakeFiles/fractal_creator.dir/main.cpp.o: ../main.cpp
 

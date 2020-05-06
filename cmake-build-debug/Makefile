@@ -150,6 +150,33 @@ Bitmap.cpp.s:
 	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/Bitmap.cpp.s
 .PHONY : Bitmap.cpp.s
 
+FractalCreator.o: FractalCreator.cpp.o
+
+.PHONY : FractalCreator.o
+
+# target to build an object file
+FractalCreator.cpp.o:
+	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o
+.PHONY : FractalCreator.cpp.o
+
+FractalCreator.i: FractalCreator.cpp.i
+
+.PHONY : FractalCreator.i
+
+# target to preprocess a source file
+FractalCreator.cpp.i:
+	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/FractalCreator.cpp.i
+.PHONY : FractalCreator.cpp.i
+
+FractalCreator.s: FractalCreator.cpp.s
+
+.PHONY : FractalCreator.s
+
+# target to generate assembly for a file
+FractalCreator.cpp.s:
+	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/FractalCreator.cpp.s
+.PHONY : FractalCreator.cpp.s
+
 Mandelbrot.o: Mandelbrot.cpp.o
 
 .PHONY : Mandelbrot.o
@@ -176,6 +203,87 @@ Mandelbrot.s: Mandelbrot.cpp.s
 Mandelbrot.cpp.s:
 	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/Mandelbrot.cpp.s
 .PHONY : Mandelbrot.cpp.s
+
+RGB.o: RGB.cpp.o
+
+.PHONY : RGB.o
+
+# target to build an object file
+RGB.cpp.o:
+	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/RGB.cpp.o
+.PHONY : RGB.cpp.o
+
+RGB.i: RGB.cpp.i
+
+.PHONY : RGB.i
+
+# target to preprocess a source file
+RGB.cpp.i:
+	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/RGB.cpp.i
+.PHONY : RGB.cpp.i
+
+RGB.s: RGB.cpp.s
+
+.PHONY : RGB.s
+
+# target to generate assembly for a file
+RGB.cpp.s:
+	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/RGB.cpp.s
+.PHONY : RGB.cpp.s
+
+Zoom.o: Zoom.cpp.o
+
+.PHONY : Zoom.o
+
+# target to build an object file
+Zoom.cpp.o:
+	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/Zoom.cpp.o
+.PHONY : Zoom.cpp.o
+
+Zoom.i: Zoom.cpp.i
+
+.PHONY : Zoom.i
+
+# target to preprocess a source file
+Zoom.cpp.i:
+	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/Zoom.cpp.i
+.PHONY : Zoom.cpp.i
+
+Zoom.s: Zoom.cpp.s
+
+.PHONY : Zoom.s
+
+# target to generate assembly for a file
+Zoom.cpp.s:
+	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/Zoom.cpp.s
+.PHONY : Zoom.cpp.s
+
+ZoomList.o: ZoomList.cpp.o
+
+.PHONY : ZoomList.o
+
+# target to build an object file
+ZoomList.cpp.o:
+	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/ZoomList.cpp.o
+.PHONY : ZoomList.cpp.o
+
+ZoomList.i: ZoomList.cpp.i
+
+.PHONY : ZoomList.i
+
+# target to preprocess a source file
+ZoomList.cpp.i:
+	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/ZoomList.cpp.i
+.PHONY : ZoomList.cpp.i
+
+ZoomList.s: ZoomList.cpp.s
+
+.PHONY : ZoomList.s
+
+# target to generate assembly for a file
+ZoomList.cpp.s:
+	$(MAKE) -f CMakeFiles/fractal_creator.dir/build.make CMakeFiles/fractal_creator.dir/ZoomList.cpp.s
+.PHONY : ZoomList.cpp.s
 
 main.o: main.cpp.o
 
@@ -216,9 +324,21 @@ help:
 	@echo "... Bitmap.o"
 	@echo "... Bitmap.i"
 	@echo "... Bitmap.s"
+	@echo "... FractalCreator.o"
+	@echo "... FractalCreator.i"
+	@echo "... FractalCreator.s"
 	@echo "... Mandelbrot.o"
 	@echo "... Mandelbrot.i"
 	@echo "... Mandelbrot.s"
+	@echo "... RGB.o"
+	@echo "... RGB.i"
+	@echo "... RGB.s"
+	@echo "... Zoom.o"
+	@echo "... Zoom.i"
+	@echo "... Zoom.s"
+	@echo "... ZoomList.o"
+	@echo "... ZoomList.i"
+	@echo "... ZoomList.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

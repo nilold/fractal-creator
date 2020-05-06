@@ -96,11 +96,67 @@ CMakeFiles/fractal_creator.dir/Mandelbrot.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fractal_creator.dir/Mandelbrot.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/niloneto/CLionProjects/fractal-creator/Mandelbrot.cpp -o CMakeFiles/fractal_creator.dir/Mandelbrot.cpp.s
 
+CMakeFiles/fractal_creator.dir/Zoom.cpp.o: CMakeFiles/fractal_creator.dir/flags.make
+CMakeFiles/fractal_creator.dir/Zoom.cpp.o: ../Zoom.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/fractal_creator.dir/Zoom.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fractal_creator.dir/Zoom.cpp.o -c /Users/niloneto/CLionProjects/fractal-creator/Zoom.cpp
+
+CMakeFiles/fractal_creator.dir/Zoom.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fractal_creator.dir/Zoom.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/niloneto/CLionProjects/fractal-creator/Zoom.cpp > CMakeFiles/fractal_creator.dir/Zoom.cpp.i
+
+CMakeFiles/fractal_creator.dir/Zoom.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fractal_creator.dir/Zoom.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/niloneto/CLionProjects/fractal-creator/Zoom.cpp -o CMakeFiles/fractal_creator.dir/Zoom.cpp.s
+
+CMakeFiles/fractal_creator.dir/ZoomList.cpp.o: CMakeFiles/fractal_creator.dir/flags.make
+CMakeFiles/fractal_creator.dir/ZoomList.cpp.o: ../ZoomList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/fractal_creator.dir/ZoomList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fractal_creator.dir/ZoomList.cpp.o -c /Users/niloneto/CLionProjects/fractal-creator/ZoomList.cpp
+
+CMakeFiles/fractal_creator.dir/ZoomList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fractal_creator.dir/ZoomList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/niloneto/CLionProjects/fractal-creator/ZoomList.cpp > CMakeFiles/fractal_creator.dir/ZoomList.cpp.i
+
+CMakeFiles/fractal_creator.dir/ZoomList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fractal_creator.dir/ZoomList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/niloneto/CLionProjects/fractal-creator/ZoomList.cpp -o CMakeFiles/fractal_creator.dir/ZoomList.cpp.s
+
+CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: CMakeFiles/fractal_creator.dir/flags.make
+CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../FractalCreator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o -c /Users/niloneto/CLionProjects/fractal-creator/FractalCreator.cpp
+
+CMakeFiles/fractal_creator.dir/FractalCreator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fractal_creator.dir/FractalCreator.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/niloneto/CLionProjects/fractal-creator/FractalCreator.cpp > CMakeFiles/fractal_creator.dir/FractalCreator.cpp.i
+
+CMakeFiles/fractal_creator.dir/FractalCreator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fractal_creator.dir/FractalCreator.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/niloneto/CLionProjects/fractal-creator/FractalCreator.cpp -o CMakeFiles/fractal_creator.dir/FractalCreator.cpp.s
+
+CMakeFiles/fractal_creator.dir/RGB.cpp.o: CMakeFiles/fractal_creator.dir/flags.make
+CMakeFiles/fractal_creator.dir/RGB.cpp.o: ../RGB.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/fractal_creator.dir/RGB.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fractal_creator.dir/RGB.cpp.o -c /Users/niloneto/CLionProjects/fractal-creator/RGB.cpp
+
+CMakeFiles/fractal_creator.dir/RGB.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fractal_creator.dir/RGB.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/niloneto/CLionProjects/fractal-creator/RGB.cpp > CMakeFiles/fractal_creator.dir/RGB.cpp.i
+
+CMakeFiles/fractal_creator.dir/RGB.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fractal_creator.dir/RGB.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/niloneto/CLionProjects/fractal-creator/RGB.cpp -o CMakeFiles/fractal_creator.dir/RGB.cpp.s
+
 # Object files for target fractal_creator
 fractal_creator_OBJECTS = \
 "CMakeFiles/fractal_creator.dir/main.cpp.o" \
 "CMakeFiles/fractal_creator.dir/Bitmap.cpp.o" \
-"CMakeFiles/fractal_creator.dir/Mandelbrot.cpp.o"
+"CMakeFiles/fractal_creator.dir/Mandelbrot.cpp.o" \
+"CMakeFiles/fractal_creator.dir/Zoom.cpp.o" \
+"CMakeFiles/fractal_creator.dir/ZoomList.cpp.o" \
+"CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o" \
+"CMakeFiles/fractal_creator.dir/RGB.cpp.o"
 
 # External object files for target fractal_creator
 fractal_creator_EXTERNAL_OBJECTS =
@@ -108,9 +164,13 @@ fractal_creator_EXTERNAL_OBJECTS =
 fractal_creator: CMakeFiles/fractal_creator.dir/main.cpp.o
 fractal_creator: CMakeFiles/fractal_creator.dir/Bitmap.cpp.o
 fractal_creator: CMakeFiles/fractal_creator.dir/Mandelbrot.cpp.o
+fractal_creator: CMakeFiles/fractal_creator.dir/Zoom.cpp.o
+fractal_creator: CMakeFiles/fractal_creator.dir/ZoomList.cpp.o
+fractal_creator: CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o
+fractal_creator: CMakeFiles/fractal_creator.dir/RGB.cpp.o
 fractal_creator: CMakeFiles/fractal_creator.dir/build.make
 fractal_creator: CMakeFiles/fractal_creator.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable fractal_creator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/niloneto/CLionProjects/fractal-creator/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable fractal_creator"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/fractal_creator.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

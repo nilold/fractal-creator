@@ -6,10 +6,26 @@ CMakeFiles/fractal_creator.dir/Bitmap.cpp.o
  /Users/niloneto/CLionProjects/fractal-creator/Bitmap.h
  /Users/niloneto/CLionProjects/fractal-creator/BitmapFileHeader.h
  /Users/niloneto/CLionProjects/fractal-creator/BitmapInfoHeader.h
+CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o
+ /Users/niloneto/CLionProjects/fractal-creator/Bitmap.h
+ /Users/niloneto/CLionProjects/fractal-creator/FractalCreator.cpp
+ /Users/niloneto/CLionProjects/fractal-creator/FractalCreator.h
+ /Users/niloneto/CLionProjects/fractal-creator/Mandelbrot.h
+ /Users/niloneto/CLionProjects/fractal-creator/Zoom.h
+ /Users/niloneto/CLionProjects/fractal-creator/ZoomList.h
 CMakeFiles/fractal_creator.dir/Mandelbrot.cpp.o
  /Users/niloneto/CLionProjects/fractal-creator/Mandelbrot.cpp
  /Users/niloneto/CLionProjects/fractal-creator/Mandelbrot.h
+CMakeFiles/fractal_creator.dir/Zoom.cpp.o
+ /Users/niloneto/CLionProjects/fractal-creator/Zoom.cpp
+ /Users/niloneto/CLionProjects/fractal-creator/Zoom.h
+CMakeFiles/fractal_creator.dir/ZoomList.cpp.o
+ /Users/niloneto/CLionProjects/fractal-creator/Zoom.h
+ /Users/niloneto/CLionProjects/fractal-creator/ZoomList.cpp
+ /Users/niloneto/CLionProjects/fractal-creator/ZoomList.h
 CMakeFiles/fractal_creator.dir/main.cpp.o
  /Users/niloneto/CLionProjects/fractal-creator/Bitmap.h
- /Users/niloneto/CLionProjects/fractal-creator/Mandelbrot.h
+ /Users/niloneto/CLionProjects/fractal-creator/FractalCreator.h
+ /Users/niloneto/CLionProjects/fractal-creator/Zoom.h
+ /Users/niloneto/CLionProjects/fractal-creator/ZoomList.h
  /Users/niloneto/CLionProjects/fractal-creator/main.cpp

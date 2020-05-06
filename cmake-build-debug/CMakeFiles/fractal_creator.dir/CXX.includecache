@@ -6,23 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/niloneto/CLionProjects/fractal-creator/Bitmap.h
-string
--
-cstdint
--
-memory
--
+/Users/niloneto/CLionProjects/fractal-creator/Zoom.h
 
-/Users/niloneto/CLionProjects/fractal-creator/Mandelbrot.h
+/Users/niloneto/CLionProjects/fractal-creator/ZoomList.cpp
+ZoomList.h
+/Users/niloneto/CLionProjects/fractal-creator/ZoomList.h
 
-/Users/niloneto/CLionProjects/fractal-creator/main.cpp
-iostream
+/Users/niloneto/CLionProjects/fractal-creator/ZoomList.h
+vector
 -
-memory
+utility
 -
-Bitmap.h
-/Users/niloneto/CLionProjects/fractal-creator/Bitmap.h
-Mandelbrot.h
-/Users/niloneto/CLionProjects/fractal-creator/Mandelbrot.h
+Zoom.h
+/Users/niloneto/CLionProjects/fractal-creator/Zoom.h
 
