@@ -10,6 +10,7 @@ CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../Bitmap.h
 CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../FractalCreator.cpp
 CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../FractalCreator.h
 CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../Mandelbrot.h
+CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../RGB.h
 CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../Zoom.h
 CMakeFiles/fractal_creator.dir/FractalCreator.cpp.o: ../ZoomList.h
 

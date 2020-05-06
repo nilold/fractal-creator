@@ -15,12 +15,16 @@ memory
 -
 
 /Users/niloneto/CLionProjects/fractal-creator/FractalCreator.h
+vector
+-
 Zoom.h
 /Users/niloneto/CLionProjects/fractal-creator/Zoom.h
 ZoomList.h
 /Users/niloneto/CLionProjects/fractal-creator/ZoomList.h
 Bitmap.h
 /Users/niloneto/CLionProjects/fractal-creator/Bitmap.h
+RGB.h
+/Users/niloneto/CLionProjects/fractal-creator/RGB.h
 
 /Users/niloneto/CLionProjects/fractal-creator/RGB.h
 ostream
